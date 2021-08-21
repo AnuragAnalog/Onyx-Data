@@ -2,6 +2,32 @@
 
 BI Visualizations to the problems in website
 
+## Ecommerce Dataset(August)
+
+This month we are analyzing Ecommerce data!
+Analysis for this dataset could include time series, clustering, classification and more.
+
+**Primary**
+
+* InvoiceNo
+
+**Quantitative**
+
+* Quantity
+* UnitPrice
+
+**Categorical**
+
+* StockCode
+* Description
+* InvoiceDate
+* CustomerID
+* Country
+
+### Acknowledgement
+
+Per the UCI Machine Learning Repository, this data was made available by Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
+
 ## Covid-19 Dataset(June)
 
 The complete COVID-19 dataset is a collection of the COVID-19 data maintained by Our World in Data. It is updated daily and includes data on confirmed cases, deaths, hospitalizations, testing, and vaccinations as well as other variables of potential interest.
