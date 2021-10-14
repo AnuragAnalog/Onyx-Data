@@ -2,6 +2,33 @@
 
 BI Visualizations to the problems in website
 
+## Marvel Vs DC Dataset
+
+* This month we are analyzing Marvel Vs DC movies data!
+* We looked at some of the major movies in the DC and Marvel universes, can you answer the question: whose movies are better, DC or Marvel?
+* Acknowledgment : Kaggle Dataset
+
+## Structure
+
+**Primary**
+* ID
+
+**Quantitative**
+* IMDB_Score
+* Metascore
+* Votes
+* USA_Gross
+
+**Categorical**
+* Year
+* Movie
+* Genre
+* Rating
+* Director
+* Actor
+* Description
+* Category
+
 ## Fast Food Restaurant Dataset
 
 * This month we are analyzing Fast Food Restaurant data!
